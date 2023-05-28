@@ -3,10 +3,11 @@
 ### Hi there 👋, my name is Farisa Daharu
 #### I am a student of Cybersecurity.
 
-This is just to extend my resume. Showing my job description and all the projects I worked on throughout my lifetime. 
+## Skills and Experience
+* ⚛ 
+* 📱 React Native
+* 💻 Python / JS / HTML / CSS / C++
 
-Skills: Python / JS / HTML / CSS / C++
-
-- 🔭 I’m currently working on this page. 
-
-
+## Places of Work!
+*  Shine Distributors Limited
+### List of Responsibites 
