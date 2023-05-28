@@ -1,16 +1,15 @@
-### Hi there 👋
+![I am a student of Cybersecurity.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Farisa-Daharu/Farisa-Daharu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Farisa Daharu
+#### I am a student of Cybersecurity.
 
-Here are some ideas to get you started:
+This is just to extend my resume. Showing my job description and all the projects I worked on throughout my lifetime. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / JS / HTML / CSS / C++
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
